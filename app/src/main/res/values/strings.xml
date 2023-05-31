@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MinhasAnotacoes</string>
+    <string name="action_settings">Settings</string>
+    <string name="acoes">Digite sua anotação</string>
+</resources>
